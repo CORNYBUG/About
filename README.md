@@ -1,2 +1,2 @@
 # About
-First attempt
+First attempt making a webpage. 

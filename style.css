@@ -1,0 +1,102 @@
+body{
+    background-color: #CED8F7;
+}
+
+.name{
+    text-align: center;
+    font-size: 120px;
+    color: black;
+    
+  }
+
+#navbar{
+  height:90px;
+  background-color: #4A5DE5;
+  position: fixed;
+  top:0;
+  right: 0;
+  width:100vw;
+  text-align: center;
+  z-index: 1;
+}
+
+
+a{
+  margin:130px;
+  margin-top: 20px;
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+  font-size: 35px;
+  color: wheat;
+  position: relative;
+  top: 25px;
+}
+
+a:hover{
+  color: orange;
+  box-shadow: 5px;
+}
+
+.about{
+  text-align: center;
+  font-size: 45px;
+  position: relative;
+  bottom: 120px;
+  }
+
+#line{
+  border-bottom: 5px solid #888;
+  position: relative;
+  bottom: 100px;
+  
+}
+
+#logo{
+  color: black;
+  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 37%;
+  position: relative;
+  bottom: 100px;
+}
+
+
+.num1{
+  font-size: 60px;
+  font-weight: 750;
+  text-align: center;
+  transition: color;
+  position: relative;
+  bottom: 100px;
+}
+
+.num1:hover{
+  color: #4A5DE5;
+  box-shadow: 5px;
+  
+}
+
+.instagram{
+    position: relative;
+    bottom: 150px;
+    text-align: center;
+}
+
+.instagram:hover{
+    color: orange;
+  box-shadow: 5px;
+}
+
+
+#mail{
+   font-size: 20px;
+  font-weight: 750;
+  text-align: center;
+  transition: color;
+  position: relative;
+  bottom: 100px;
+}
+
